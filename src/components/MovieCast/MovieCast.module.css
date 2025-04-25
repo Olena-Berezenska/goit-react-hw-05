@@ -1,0 +1,17 @@
+.castlist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.castimg {
+  width: 100px;
+  height: 140px;
+}
+.castitem {
+  border: 1px solid #ccc; /* світло-сірий бордер */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* легка тінь */
+  border-radius: 8px; /* трохи заокруглені кути */
+  padding: 12px;
+  margin-bottom: 16px;
+  background-color: #fff;
+}

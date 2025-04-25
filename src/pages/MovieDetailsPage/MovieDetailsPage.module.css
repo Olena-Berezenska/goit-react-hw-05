@@ -1,0 +1,10 @@
+.detailwrapper {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.navwraper {
+  display: flex;
+  gap: 15px;
+}
